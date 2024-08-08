@@ -13,7 +13,7 @@ if not os.path.exists(file_path):
 workbook = openpyxl.load_workbook(file_path)
 sheet = workbook.active
 
-new_interest_y = "3.00%"  
+new_interest_y = "3,00%"  
 new_number_of_periods = 500  
 new_principal = 260000  
 

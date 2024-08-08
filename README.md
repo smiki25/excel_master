@@ -28,7 +28,7 @@ This is a Flask application that allows you to update an Excel file with new dat
 
     ```json
     {
-      "interest_y": "3.00%",
+      "interest_y": "3,00%",
       "number_of_periods": 500,
       "principal": 260000
     }
@@ -41,7 +41,7 @@ This is a Flask application that allows you to update an Excel file with new dat
     ```json
     {
       "payment": 1234.56,
-      "interest_y": "3.00%",
+      "interest_y": "3,00%",
       "number_of_periods": 500,
       "principal": 260000
     }
